@@ -1,2 +1,2 @@
-### Classificador de Heroi
+### Classificador de Herói
 Escrevendo as classes de um Jogo
